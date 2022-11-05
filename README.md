@@ -1,4 +1,4 @@
-# CS4248-Team13
+# CS4248-Team13 Code Submission
 This repo contains all the codes we used for all the experiments that Team 13 runs for CS4248 Team Project submission.
 
 To run the LSTM-based models (AE-LSTM.ipynb and ATAE-LSTM.ipynb), please refer to **LSTM_Models_ReadME.md** for the instructions on how to run the notebooks.

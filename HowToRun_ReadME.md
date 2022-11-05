@@ -9,7 +9,7 @@ To run the experiments we used for the LSTM-based models:
 under the Pipeline section.
 5. Run all.
 
-To run BERT.ipynb:
+To run BERT.ipynb and BERT-SPC.ipynb:
 
 0. The .ipynb files are optimized to be run on Google Colab.
 1. Download the MAMS-ATSA data from https://github.com/siat-nlp/MAMS-for-ABSA under data/ folder, or the MAMS-ATSA folder in this repo.

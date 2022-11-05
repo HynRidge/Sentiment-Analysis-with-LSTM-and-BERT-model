@@ -9,5 +9,5 @@ The models and results we found are compiled in our paper, entitled **"Aspect-Te
 Dataset Using Variations of LSTM and BERT-based Models"**.
 
 ## Acknowledgement
-The LSTM-based models codes are inspired by https://github.com/songyouwei/ABSA-PyTorch.
+The LSTM-based models codes are inspired by https://github.com/songyouwei/ABSA-PyTorch. <br>
 The BERT-CapsNET model codes are inspired by https://github.com/siat-nlp/MAMS-for-ABSA.

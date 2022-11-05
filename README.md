@@ -6,4 +6,7 @@ To run the LSTM-based models (AE-LSTM.ipynb and ATAE-LSTM.ipynb), please refer t
 To run the BERT-based models (BERT.ipynb, BERT-SPC.ipynb, and BERT-CapsNET.ipynb), please refer to **BERT_Modles_ReadME.md** for the instructions on how to run the notebooks. 
 
 The models and results we found are compiled in our paper, entitled **"Aspect-Term Sentiment Analysis on Multi Aspect Multi Sentiment (MAMS)
-Dataset Using Variations of LSTM and BERT-based Models"**
+Dataset Using Variations of LSTM and BERT-based Models"**.
+
+## Acknowledgement
+The LSTM-based models codes are inspired by https://github.com/songyouwei/ABSA-PyTorch.

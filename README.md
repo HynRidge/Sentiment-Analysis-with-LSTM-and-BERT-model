@@ -4,6 +4,9 @@ This project aims to experiment Aspect-Term Sentiment Analysis using variations 
 # About the Dataset
 The dataset that is used in this experiment are [MAMS dataset]( https://github.com/siat-nlp/MAMS-for-ABSA).  
 
+# Experimentation Result
+The details and result of this experimentation can be found under the following pdf: [Report.pdf](Report.pdf). 
+
 # Acknowledgement
 The LSTM-based models codes are adapted from https://github.com/songyouwei/ABSA-PyTorch. <br>
 The BERT-CapsNET model codes are adapted from https://github.com/siat-nlp/MAMS-for-ABSA.

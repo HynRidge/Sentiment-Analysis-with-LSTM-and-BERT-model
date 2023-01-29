@@ -1,11 +1,9 @@
-# CS4248-Team13 Code Submission
-This repo contains all the codes we used for all the experiments that Team 13 runs for CS4248 Team Project submission.
+# About the Project
+This project aims to experiment Aspect-Term Sentiment Analysis using variations of BERT and LSTM and analyze in depth why BERT variations are far more superior than any LSTM variations.
 
-To run the model notebooks, please refer to **HowToRun_ReadME.md** for the instructions on how to run the notebooks.
+# About the Dataset
+The dataset that is used in this experiment are [MAMS dataset]( https://github.com/siat-nlp/MAMS-for-ABSA).  
 
-The models and results we found are compiled in our paper, entitled **"Aspect-Term Sentiment Analysis on Multi Aspect Multi Sentiment (MAMS)
-Dataset Using Variations of LSTM and BERT-based Models"**.
-
-## Acknowledgement
+# Acknowledgement
 The LSTM-based models codes are adapted from https://github.com/songyouwei/ABSA-PyTorch. <br>
 The BERT-CapsNET model codes are adapted from https://github.com/siat-nlp/MAMS-for-ABSA.
